@@ -1,0 +1,1 @@
+from .aemet_client import AEMETClient
